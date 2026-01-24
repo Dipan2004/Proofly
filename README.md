@@ -13,7 +13,7 @@ The system is designed to be privacy-first: original user content is never store
 - Works without blockchain or wallets
 - Designed to support text, images, documents, and OCR-based proofs
 
-## Current Features
+## Current Features 
 
 - Text proof creation (live)
 - Proof verification by text or hash (live)
