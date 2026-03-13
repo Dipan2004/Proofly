@@ -1,4 +1,4 @@
-# Proofly
+# Proofly 
 
 Proofly is a proof-of-existence application that allows users to create and verify cryptographic proofs for digital content such as text, images, and documents.
 
